@@ -1,2 +1,2 @@
 # Atividades-e-Exercicios
- Atividades e exercícios desenvolvidos ao longo da faculdade e de outros cursos.
+ Aqui constam atividades e exercícios desenvolvidos ao longo da faculdade e de outros cursos. 
